@@ -1,0 +1,26 @@
+colorscheme murphy
+syntax on
+
+map  :w
+map  :buffers:b
+map  :buffers:sb
+" substituir una paraula
+map ã dw"0P
+map ø O/*jo*/
+
+set nowrap
+set ignorecase
+set smartcase
+
+set expandtab
+set tabstop=2
+set shiftwidth=2
+set autoindent
+
+set guifont=DejaVu\ Sans\ Mono\ 12
+
+
+"ab IF if ( ){;}
+"ab WHI while ( ){;}
+"ab FOR for ( i = 0 ; i < i ; ++i ){;}
+
