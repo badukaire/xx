@@ -105,12 +105,16 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-if [ -f ~/.bashrc_marc ]; then
-    . ~/.bashrc_marc
+if [ -f ~/git-prompt.sh ]; then
+    . ~/git-prompt.sh
+    # git prompt
+    #PS1='[\u@\h \W$(__git_ps1 " ($AE_SANDBOX:%s)")]\$ '
+    #PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
+
 fi
 
-if [ -f ~/git-completion.bash ]; then
-    . ~/git-completion.bash
+if [ -f ~/git-completion.sh ]; then
+    . ~/git-completion.sh
 fi
 
 # enable programmable completion features (you don't need to enable
