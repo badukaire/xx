@@ -69,12 +69,20 @@ alias gau='git add -u'
 alias gdf='git diff --name-status'
 alias gdi='git diff --internal-diff'
 
+alias gdfm='gdf mirror/$( git rev-parse --abbrev-ref HEAD )'
+alias gdkm='gdk mirror/$( git rev-parse --abbrev-ref HEAD )'
+
+
+
 alias gd='git difftool -t tkdiff'
 alias gdg='git difftool -t gvimdiff'
 alias gdh='git difftool -t tkdiff HEAD'
 alias gdk='git difftool -t kdiff3'
 alias gdt='git diff-tree -r --name-only'
 alias gdv='git difftool -t vimdiff'
+
+alias gV='git checkout --'
+alias gVa='git reset HEAD'
 
 alias gmff='git merge --ff-only'
 alias gmk='git mergetool -t kdiff3'
