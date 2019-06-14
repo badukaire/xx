@@ -72,8 +72,6 @@ alias gdi='git diff --internal-diff'
 alias gdfm='gdf mirror/$( git rev-parse --abbrev-ref HEAD )'
 alias gdkm='gdk mirror/$( git rev-parse --abbrev-ref HEAD )'
 
-
-
 alias gd='git difftool -t tkdiff'
 alias gdg='git difftool -t gvimdiff'
 alias gdh='git difftool -t tkdiff HEAD'
@@ -95,6 +93,7 @@ alias gr='git remote -v'
 alias gpa='git push --all'
 alias gpam='git push --all mirror'
 alias gpd='git push --delete'
+alias gpdm='git push --delete mirror $( git rev-parse --abbrev-ref HEAD )'
 alias gphm='git push mirror HEAD'
 
 alias gl='git lol'
