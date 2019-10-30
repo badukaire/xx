@@ -103,6 +103,7 @@ alias gll='git lol -22'
 alias glw='git low'
 
 alias gmm='git commit -m'
+alias gma='git commit --amend'
 
 alias gri='git rebase -i'
 alias griA='git rebase --abort'
