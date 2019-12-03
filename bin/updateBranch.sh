@@ -1,3 +1,5 @@
+#!/bin/bash
+
 [ $# -lt 2 ] && {
   EXEE=`basename $0`
   echo "$EXEE <branch> <mirror> [<options>]"
