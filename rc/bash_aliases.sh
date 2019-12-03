@@ -56,6 +56,13 @@ alias sll='svn log --limit'
 # git config --global alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"
 # git config --global alias.mylog "log --pretty=format:'%h %s [%an]' --graph"
 
+# different / improved git lol?
+# https://gist.github.com/olivierlacan/3237765
+# git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
+# git config --global alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"
+# git config --global alias.mylog "log --pretty=format:'%h %s [%an]' --graph"
+
+
 export GRH="refs/heads"
 export GRRM=$GRR"/mirror"
 export GRR="refs/remotes"
