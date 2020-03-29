@@ -1,0 +1,374 @@
+"Abrera";66.9
+"Agramunt";62.6
+"Alcarràs";79.6
+"Alfarràs/Almenar";76.5
+"Almacelles";13.5
+"Alta Ribagorça";123
+"Alt Berguedà";27.6
+"Alt Camp Est";5.9
+"Alt Camp Oest";0.0
+"Alt Mogent";68.9
+"Alt Urgell-Sud";47.9
+"Amposta";32.8
+"Anglès";32.1
+"Anoia Rural";192.4
+"Aran";190.4
+"Arbúcies/Sant Hilari";8.4
+"Arenys De Mar";96.6
+"Argentona";111.4
+"Artés";62.5
+"Artesa De Segre";0.8
+"Badalona 10";172.8
+"Badalona 11";194.8
+"Badalona 1";164.1
+"Badalona 12";235.4
+"Badalona 2";177.3
+"Badalona 3";163.9
+"Badalona 4";109.3
+"Badalona 5";173.8
+"Badalona 6";148.8
+"Badalona 7A";201.2
+"Badalona 7B";104.8
+"Badalona 8";136.7
+"Badalona 9";182.2
+"Baix Berguedà";41
+"Baix Penedès - Interior";47.9
+"Balaguer";98.9
+"Banyoles";59.1
+"Barberà Del Vallès";108.5
+"Barcelona 10-A";113
+"Barcelona 10-B";96.7
+"Barcelona 10-C";107.8
+"Barcelona 10-D";116
+"Barcelona 10-E";161.4
+"Barcelona 10-F";187.2
+"Barcelona 10-G";121.2
+"Barcelona 10-H";162.8
+"Barcelona 10-I";158.9
+"Barcelona 10-J";110.1
+"Barcelona 1-A";103.9
+"Barcelona 1-B";77.9
+"Barcelona 1-C";74
+"Barcelona 1-D";77.6
+"Barcelona 1-E";134.8
+"Barcelona 2-A";197.8
+"Barcelona 2-B";207.5
+"Barcelona 2-C";166
+"Barcelona 2-D";211.9
+"Barcelona 2-E";153.3
+"Barcelona 2-G";145.5
+"Barcelona 2-H";107.7
+"Barcelona 2-I";142.6
+"Barcelona 2-J";115.5
+"Barcelona 2-K";167.7
+"Barcelona 3-A";62.3
+"Barcelona 3-B";151.5
+"Barcelona 3-C";218.1
+"Barcelona 3-D";151.6
+"Barcelona 3-E";169.9
+"Barcelona 3-G";123.2
+"Barcelona 3-H";112.1
+"Barcelona - 3I";202.4
+"Barcelona 4-A";129.3
+"Barcelona 4-B";106.5
+"Barcelona 4-C";142.9
+"Barcelona 5-A";72.6
+"Barcelona 5-B";84.7
+"Barcelona 5-C";70.4
+"Barcelona 5-D";101.7
+"Barcelona 5-E";102.3
+"Barcelona 6-A";190.2
+"Barcelona 6-B";148.5
+"Barcelona 6-C";171.3
+"Barcelona 6-D";112.9
+"Barcelona 6-E";185.3
+"Barcelona 7-A";134
+"Barcelona 7-B";118
+"Barcelona 7-C";168.3
+"Barcelona 7-D";205.3
+"Barcelona 7-E";208.8
+"Barcelona 7-F";231
+"Barcelona 7-G";261.1
+"Barcelona 8-C";207.7
+"Barcelona 8-F";204
+"Barcelona 8-G";290.8
+"Barcelona 8-H";120.6
+"Barcelona 8-I";228.3
+"Barcelona 8J";201.4
+"Barcelona - 8K";215.3
+"Barcelona - 8L";247.2
+"Barcelona 9-A";181.4
+"Barcelona 9-C";224.6
+"Barcelona 9-E";159.4
+"Barcelona 9-F";194.5
+"Barcelona 9-H";203.5
+"Barcelona 9-I";176.2
+"Bàscara";9.4
+"Begues";125
+"Bellpuig";47.5
+"Berga";103.4
+"Besalú";27.5
+"Blanes";52.7
+"Breda - Hostalric";59.4
+"Calaf";133.6
+"Calafell";29.2
+"Caldes De Montbui";108
+"Calella";60.9
+"Cambrils";21.3
+"Camprodon";35.3
+"Canet De Mar";93.9
+"Capellades";198.1
+"Cardedeu";104.6
+"Cardona";84.9
+"Cassà De La Selva";75.9
+"Castellar Del Vallès";133.2
+"Castellbisbal";94.3
+"Castelldefels-1";101.9
+"Castelldefels-2";87.6
+"Celrà";67.1
+"Centelles";68.6
+"Cerdanyola Del Vallès 1";148.3
+"Cerdanyola Del Vallès 2";161.7
+"Cerdanyola-Ripollet";160.6
+"Cervera";112.9
+"Ciutat Badia";160
+"Constantí";31.1
+"Corbera De Llobregat";37.3
+"Cornellà De Llobregat 1";89.7
+"Cornellà De Llobregat 2";38.1
+"Cornellà De Llobregat 3";107
+"Cornellà De Llobregat 4";32.4
+"Cornudella De Montsant";0.0
+"Cubelles-Cunit";66.9
+"Deltebre";0.0
+"El Masnou-Alella";160
+"El Morell";0.0
+"El Prat De Llobregat 1";190.9
+"El Prat De Llobregat 2";218
+"El Prat De Llobregat 3";163.2
+"El Solsonès";38.9
+"El Vendrell";36.9
+"Esparraguera";76.5
+"Esplugues De Llobregat 1";101.6
+"Esplugues De Llobregat 2";76.3
+"Falset";33.7
+"Figueres";12.4
+"Flix";0.0
+"Gavà 1";143.4
+"Gavà 2";171.3
+"Girona 1";159.6
+"Girona 2";116.9
+"Girona 3";123.9
+"Girona 4";156.2
+"Granollers 1 -Oest";59.1
+"Granollers 2 - Nord";71.5
+"Granollers 3 - Centre Est";106.2
+"Granollers 4 - Sud";153.6
+"Igualada-1";394.5
+"Igualada-2";451.2
+"La Bisbal D'Empordà";2.7
+"La Cerdanya";64
+"La Garriga";108.3
+"La Granadella";179.8
+"La Jonquera";0.0
+"L'Aldea - Camarles - L'Ampolla";15.9
+"La Llagosta";139.4
+"L'Ametlla De Mar - El Perelló";0.0
+"La Pobla De Segur";344.4
+"La Roca Del Vallès";144.3
+"La Selva Del Camp";28.5
+"La Seu D'Urgell";79.9
+"Les Borges Blanques";87.9
+"Les Borges Del Camp";7.1
+"L'Escala";0.0
+"L'Hospitalet De Llobregat 10 - C.Serra";60.6
+"L'Hospitalet De Llobregat 11 - Gornal";113.8
+"L'Hospitalet De Llobregat 12 (Bellvitge)";165.2
+"L'Hospitalet De Llobregat 1 - Centre";189.2
+"L'Hospitalet De Llobregat 2 -S.Josep";225.2
+"L'Hospitalet De Llobregat 3 - Collblanc";97.9
+"L'Hospitalet De Llobregat 4 Torrassa";114.1
+"L'Hospitalet De Llobregat 5-S.Eulàlia N.";195.8
+"L'Hospitalet De Llobregat 6-S.Eulàlia S.";183.1
+"L'Hospitalet De Llobregat 7-Florida N.";99.7
+"L'Hospitalet De Llobregat 8-Florida S.";66.7
+"L'Hospitalet De Llobregat 9-Pubilla C.";88.3
+"Llançà";6.9
+"Lleida 1 Centre Històric-Rambla Ferran";90
+"Lleida 2 Primer De Maig";56.7
+"Lleida 3 Eixample";155.5
+"Lleida 4 Balàfia-Pardinyes";67.9
+"Lleida 5 Cappont";106.9
+"Lleida 6 Bordeta-Magraners";75
+"Lleida 7 Onze De Setembre";106.2
+"Lleida Rural 1-Nord";68.6
+"Lleida Rural 2-Sud";75.8
+"Lloret De Mar";51.2
+"Lluçanès";53
+"Malgrat De Mar";41.6
+"Manlleu";120.1
+"Manresa 1";84.9
+"Manresa 2";96.7
+"Manresa 3";123.6
+"Manresa 4";89.7
+"Martorell";67.7
+"Martorelles";141.8
+"Martorell Rural";75.5
+"Mataró 1";128.9
+"Mataró 2";67.4
+"Mataró 3";48.9
+"Mataró 4";115.2
+"Mataró 5";97.4
+"Mataró 6";69.8
+"Mataró 7";100.1
+"Moià";45.8
+"Molins De Rei";56.5
+"Mollet Del Vallès-2 Oest";267.1
+"Mollet Del Vallès-Est";192
+"Montblanc";22.6
+"Montcada I Reixac - 1";174.4
+"Montcada I Reixac - 2";174.4
+"Montgat";115.6
+"Montornès / Montmeló";123.1
+"Mont-Roig Del Camp";7.3
+"Montserrat";58
+"Móra La Nova - Móra D'Ebre";10.7
+"Navarcles - Sant Fruitós De Bages";80.5
+"Navàs/Balsareny";42.4
+"Ocata-Teià";72.9
+"Olesa De Montserrat";99.5
+"Olot";108.6
+"Palafrugell";3.5
+"Palamós";9.3
+"Palau-Solità I Plegamans";87.4
+"Pallars Sobirà";94.1
+"Pallejà";113.2
+"Parets Del Vallès";170.5
+"Penedès Rural";25.4
+"Peralada";7
+"Piera";145.3
+"Pineda";41.6
+"Pla D'Urgell";46.6
+"Polinyà-Sentmenat";102.6
+"Ponts";31.5
+"Premià De Mar";104.4
+"Reus 1";10.9
+"Reus 2";25.5
+"Reus 3";30.3
+"Reus 4";19.9
+"Reus 5";7.9
+"Ribes De Freser-Campdevànol";0.0
+"Ribes-Olivella";46.9
+"Ripollet-1";118
+"Ripollet-2";187.5
+"Ripoll-Sant Joan De Les Abadesses";15
+"Riudoms";15.9
+"Roda De Ter";114.8
+"Roquetes-Canyelles";48.2
+"Roses";11.8
+"Rubí 1";69.2
+"Rubí 2";94.3
+"Rubí -3";75.9
+"Sabadell 1A";208.9
+"Sabadell 1B";189
+"Sabadell 2";173
+"Sabadell 3A";207.7
+"Sabadell 3B";229.1
+"Sabadell 4-A";190.7
+"Sabadell 4-B";149.8
+"Sabadell 5";214.3
+"Sabadell 6";227.1
+"Sabadell 7";152.5
+"Sallent";89.9
+"Salou";14
+"Salt";87.9
+"Santa Coloma De Farners";57.2
+"Santa Coloma De Gramenet 1";77.1
+"Santa Coloma De Gramenet 2";143.7
+"Santa Coloma De Gramenet 3";145.4
+"Santa Coloma De Gramenet 4";149.6
+"Santa Coloma De Gramenet 5";116.6
+"Santa Coloma De Gramenet 6";87.6
+"Santa Coloma De Queralt";38.6
+"Sant Adrià Del Besòs 1";225.2
+"Sant Adrià Del Besòs 2";66.1
+"Santa Eugènia De Berga";143.1
+"Santa Margarida De Montbui";294.5
+"Sant Andreu De La Barca";92.1
+"Sant Andreu De Llavaneres";113.5
+"Santa Perpètua De La Mogoda";158.1
+"Sant Boi De Llobregat 1";61.5
+"Sant Boi De Llobregat 2";60.3
+"Sant Boi De Llobregat 3";22.7
+"Sant Boi De Llobregat 4";45.9
+"Sant Carles De La Ràpita";13.2
+"Sant Celoni";61.4
+"Sant Cugat Del Vallès-1";95.1
+"Sant Cugat Del Vallès-2";122
+"Sant Cugat Del Vallès-3";127.3
+"Sant Feliu De Guíxols";12.6
+"Sant Feliu De Llobregat 1";18
+"Sant Feliu De Llobregat 2";80.4
+"Sant Hipòlit De Voltregà";142.4
+"Sant Joan Despí 1";47.5
+"Sant Joan Despí 2";86.3
+"Sant Joan De Vilatorrada";78.2
+"Sant Joan Les Fonts";105.9
+"Sant Just Desvern";122.2
+"Sant Quirze De Besora";121.4
+"Sant Quirze Del Vallès";237.2
+"Sant Sadurní D'Anoia";89.2
+"Sant Vicenç De Castellet";57.7
+"Sant Vicenç Dels Horts-1";62.9
+"Sant Vicenç Dels Horts-2";67.9
+"Sarrià De Ter";116.1
+"Seròs";37.9
+"Sils/Vidreres/Maçanet De La Selva";28.5
+"Sitges";58.8
+"Súria";68.4
+"Tarragona 1";0.4
+"Tarragona 2";7.2
+"Tarragona 3";30.9
+"Tarragona 4";12.4
+"Tarragona 5";7.9
+"Tarragona 6";44.8
+"Tarragona-7 (Sant Salvador)";31.3
+"Tarragona-8";30.8
+"Tàrrega";77.5
+"Terra Alta";6.3
+"Terrassa A";119
+"Terrassa B";130.7
+"Terrassa C";70.7
+"Terrassa D";91.8
+"Terrassa E";114.4
+"Terrassa F";113.3
+"Terrassa-G";88.2
+"Tona";43.9
+"Tordera";21.7
+"Torredembarra";22.4
+"Torroella De Montgrí";0.0
+"Tortosa 1 - Est";65.2
+"Tortosa 2 - Oest";46.2
+"Tremp";82
+"Ulldecona";16.7
+"Vall Del Ges";66.9
+"Vall Del Tenes";114.2
+"Vall D'En Bas";78.1
+"Vallirana";85.4
+"Valls Urbà";16.7
+"Vandellòs I L'Hospitalet De L'Infant";0.0
+"Vic-1 Nord";213.5
+"Vic-2 Sud";129.1
+"Viladecans 1";173.4
+"Viladecans 2";230.3
+"Viladecans 3";212.3
+"Vilafant";30.5
+"Vilafranca Del Penedès 1";60.9
+"Vilafranca Del Penedès 2";48.7
+"Vilanova Del Camí";231.3
+"Vilanova I La Geltrú 1";110.7
+"Vilanova I La Geltrú 2";52.5
+"Vilanova I La Geltrú 3";34.1
+"Vila-Seca";6.4
+"Vilassar De Dalt";139.9
+"Vilassar De Mar";70.2
