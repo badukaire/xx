@@ -23,17 +23,18 @@ education
 
 Follows an incomplete list of my educational achievements.
 
-* 1992, 1996 : B.Sc. **and** M.Sc (T.P.) in telecom and electronics
+* 1987-1992, 1996 : B.Sc. **and** M.Sc (T.P.) in telecom and electronics
   engineering, La Salle university (URL.edu), Barcelona
 
 * 1995, Copenhaguen : 1 year in Denmark Technical University, full custom
-  high-speed chip design project
+  chip design project
 
 * 1998, CAP/CQP (UPC.edu) : official 1-year course for becoming a technology
   high school teacher
 
 I try to keep myself up-to-date with technology and development tools
-reading technical articles and web documentation and literature.
+reading technical articles and web documentation and literature. I have also
+trained on skills such as docker, microservices, IoT, golang, rust.
 
 
 experience
@@ -46,7 +47,9 @@ Follows an incomplete list of the jobs I have worked in.
   Development and maintenance of the core Web Services client API
   platform used by in-house and 3rd-party software utilities that allow
   communicating with any of their portfolio of printers. Language:
-  C++, platforms: windows, linux and MACOS.
+  C++, platforms: windows, linux and MACOS. Lately changed projects and
+  work on FW development, devices and components using the HP development
+  framework
 
 * 2001 - 2016, Tecsidel (Barcelona) : development, deployment (off- and
   on-site -- in Spain, and abroad) and maintenance of tolling applications and
@@ -55,9 +58,9 @@ Follows an incomplete list of the jobs I have worked in.
   devices. Customers include Abertis, Norwegian Public Roads
   Adm, via livre (PT toll operator), Ferrovial and many others.
 
-* 1992, Hyptek (Paris, France), bought by SAGEM : worked in the UI, firmware
+* 1992, Hyptek (Paris), bought by SAGEM : worked in the UI, firmware
   and OS for a multiprocessor video streaming machine used 
-  to remotely control bank offices. C, motorola assembly, ROM
+  to remotely control banks. C, motorola assembly, ROM
 
 * 1999 - 2001, Mabyc (Barcelona) : development and 
   maintenance of car park applications. Analysis, programming
@@ -66,8 +69,8 @@ Follows an incomplete list of the jobs I have worked in.
 * 1995 - 1999, worked for other companies in Catalonia
   in different IT and training jobs. May provide details under request.
 
-* 2002 - 2010, Casa Asia : teacher of the educational program for
-  primary schools, regarding China and the Chinese language
+* 2002 - 2010, Casa Asia (state-managed organization) : teacher of the educational program for
+  primary schools, regarding China and the Chinese culture and language
 
 Despite my technical profile, I have also real-world experience managing
 family-owned businesses, and arranging large sport events and their budget.
@@ -85,6 +88,8 @@ Catalan and Spanish are my native languages, and besides :
 * Norwegian : beginner level, basic communication, read
   and write simple texts
 
+* German : beginner, 1 year course, Average pronunciation
+
 * Chinese : beginner, 1 year course + passive learning, 
   not bad pronunciation and calligraphy
 
@@ -92,7 +97,7 @@ Catalan and Spanish are my native languages, and besides :
   pronunciation) and read simple texts
 
 I like and I am keen at learning languages. I have
-notions of several others, such as Japanese, Korean, German, etc
+notions of several others, such as Japanese, Korean, etc
 
 
 skills
@@ -136,5 +141,5 @@ of tools that have allowed my company to minimize the cost in hours, knowledge
 and effort for the deployment and maintenance of systems.
 
 Proactive introduction in my company of different development tools
-including eclipse and subversion (i.e. deployment of an 8-y.o. server).
+including eclipse and subversion (i.e. deployment of the corporate server).
 
