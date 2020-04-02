@@ -1,0 +1,43 @@
+Marc Gonzalez Carnicer
+September 13, 1970
+
+education
+
+•	1992 : B.Sc. in telecommunication engineering, La Salle university, Barcelona
+•	1996 : M.Sc. in electronic engineering, La Salle university, Barcelona
+•	1995 : 1 year in Denmark Technical University, department of computer science, in a project about full custom high-speed chip design
+•	1998 : CQP, 1-year course for becoming an official high school teacher, UPC
+•	Continuous reading and learning of new technologies (try to keep myself up to date)
+
+experience
+
+•	2001 - 2012 : Tecsidel (Barcelona) : Development and maintenance of tolling applications. Analysis, programming and customer support, documentation, and version control management. Deployment on-site (both in Spain and abroad) of the tolling systems. Worked for several customers, most remarkably Abertis / Acesa, Norwegian Public Roads Administration, Portuguese toll operator via livre, Ferrovial and many others.
+•	1992 : Hyptek (Paris, France) : worked in the firmware and OS for a multiprocessor video streaming machine used to remotely control bank offices
+•	1999 - 2001 : Mabyc (Barcelona) : Development and maintenance of car park applications. Analysis, programming and customer support.
+•	1995 - 1999 : worked for several companies in Catalonia in different IT and training jobs. May provide details under request.
+•	2002 - 2012 : Casa Asia, teacher of the educational program for primary schools, regarding China and the Chinese language
+
+languages
+
+•	English : Very fluent, both spoken and written
+•	French : Very fluent, both spoken and written
+•	Chinese : 1 year course + passive learning through my trips to China and dealing with Chinese people thanks to my hobbies
+•	Danish : beginner level : can communicate (with good accent) and read simple texts
+•	Norwegian : beginner level : can read simple texts and understand, because of long working stays in Norway and because of similarity to Danish
+•	Catalan and Spanish are my native languages
+
+I like and I am keen learning languages. Therefore I have notions of several others, such as Japanese, Korean, German, etc
+
+skills
+
+Follows an incomplete list of the IT skills and programming languages, as well as my personal ones.
+
+•	C, C++, shell scripting, linux development, subversion (and other version control systems - VCSs) : advanced
+•	python, html, java, systems administration, C#, project analysis and design, people management, use / administration of remote collaboration / project management tools : strong
+•	project management, database design, html / web, git, bzr, writing skills, communication and mediation : good
+
+I can write well structured technical documents, either procedure documentation or manuals, so that can be understood and comply with their goal.
+
+And last but not least, I am able to manage projects and events, involving dealing with multiple providers and customers, and complying with budget and time limitations. 
+
+

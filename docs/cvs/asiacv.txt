@@ -1,0 +1,122 @@
+
+Marc Gonzalez Carnicer
+======================
+
+::
+
+  +34-65.11.456.99
+  carnicer@gmail.comm
+  born September 1970
+  pobox 33093, 08080 Barcelona
+
+
+objective
+---------
+
+A project management, not necessarily in the IT
+domain, and / or a training position in 
+a company with locations both in Europe and Eastern 
+Asia.
+
+
+education
+---------
+
+Follows an incomplete list of my educational achievements.
+
+* 1992 : B.Sc. in telecommunication engineering, La Salle 
+  university, Barcelona
+
+* 1996 : M.Sc. in electronic engineering, La Salle 
+  university, Barcelona
+
+* 1995 : 1 year in Denmark Technical University, department
+  of computer science, in a project about full custom
+  chip design
+
+* 1998 : 1-year course for becoming an official high school
+  teacher
+
+* june 2000 : Panelist at the I international Go symposyum,
+  in Sendai (Japan)
+
+
+experience
+----------
+
+Follows an incomplete list of the posts I have worked in.
+
+* 2001 - 2007 : Tecsidel (Barcelona) : Development and 
+  maintenance of tolling applications. Analysis, programming
+  and customer support, documentation, and version control
+  management.
+
+* 2005 : Main organizer of the World Youth Go Championship,
+  an event which included preparing and managing all the
+  tasks for an high budget international event.
+
+* 1992 : Hyptek (Paris, France) : worked in the firmware
+  and OS for a multiprocessor video streaming machine used 
+  to remotely control bank offices
+
+* 1998 - 2006 : Organized several sports events dealing 
+  communication between Eastern associations.
+
+* 1999 - 2001 : Mabyc (Barcelona) : Development and 
+  maintenance of car park applications. Analysis, programming
+  and customer support.
+
+* 1995 - 1999 : worked for several companies in Catalonia
+  in different IT and training jobs . May provide details under request.
+
+
+languages
+---------
+
+* English : Very fluent, both spoken and written
+
+* French : Very fluent, both spoken and written
+
+* Chinese : 1 year course + passive learning through
+  my trips to China and living in an environment with
+  Chinese people.
+
+* Danish : beginner level : can communicate (with good accent) and read
+  simple texts
+
+* Norwegian : beginner level : can read simple texts and
+  understand, because of long working stays in Norway and
+  because of similarity to Danish
+
+* Catalan / Spanish : my native languages
+
+I am passionate and keen about learning languages.
+Therefore I have notions of others, such as Japanese, 
+Korean, German, etc
+
+
+skills
+------
+
+Follows an incomplete list of the IT skills and languages,
+as well as my personal ones.
+
+* C, C++, C#, shell scripting, linux development, subversion
+  (and other version control systems - VCSs) : advanced
+
+* python, html, java, systems administration, project 
+  analysis, people management, use of remote collaboration
+  tools : strong
+
+* project management, database design, html / web, 
+  writing skills, communication and medation : good
+
+I can write well structured technical documents, either 
+procedure documentation or manuals.
+
+And last but not least, I am able to manage projects
+and events, involving dealing with multiple
+providers and customers, and complying with budget
+and time limitations.
+
+

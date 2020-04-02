@@ -1,0 +1,140 @@
+
+Marc González Carnicer
+----------------------
+
+::
+
+  +34-604.21.28.77
+  carnicer@gmail.com
+  born September 1970
+
+
+summary
+-------
+
+Experienced linux (C++, python ...) developer (25+ years) and
+deployment/devops engineer (7+years). Fanatic of maintainable and reusable
+code. Proactive creator of helper tools to ease devops tasks.
+Focused on testing before delivering without errors.
+
+
+education
+---------
+
+Follows an incomplete list of my educational achievements.
+
+* 1992, 1996 : B.Sc. **and** M.Sc (T.P.) in telecom and electronics
+  engineering, La Salle university (URL.edu), Barcelona
+
+* 1995, Copenhaguen : 1 year in Denmark Technical University, full custom
+  high-speed chip design project
+
+* 1998, CAP/CQP (UPC.edu) : official 1-year course for becoming a technology
+  high school teacher
+
+I try to keep myself up-to-date with technology and development tools
+reading technical articles and web documentation and literature.
+
+
+experience
+----------
+
+Follows an incomplete list of the jobs I have worked in.
+
+* Dec 2016 - present, ERNI (Barcelona) : senior IT consultant. Working
+  on site for Hewlett-Packard, on its Large Format Printing business.
+  Development and maintenance of the core Web Services client API
+  platform used by in-house and 3rd-party software utilities that allow
+  communicating with any of their portfolio of printers. Language:
+  C++, platforms: windows, linux and MACOS.
+
+* 2001 - 2016, Tecsidel (Barcelona) : development, deployment (off- and
+  on-site -- in Spain, and abroad) and maintenance of tolling applications and
+  systems. Analysis, programming, documentation, and version control
+  management. Oversee the maintenance of thousands of EFC
+  devices. Customers include Abertis, Norwegian Public Roads
+  Adm, via livre (PT toll operator), Ferrovial and many others.
+
+* 1992, Hyptek (Paris, France), bought by SAGEM : worked in the UI, firmware
+  and OS for a multiprocessor video streaming machine used 
+  to remotely control bank offices. C, motorola assembly, ROM
+
+* 1999 - 2001, Mabyc (Barcelona) : development and 
+  maintenance of car park applications. Analysis, programming
+  and deployment. C/C++, linux, java.
+
+* 1995 - 1999, worked for other companies in Catalonia
+  in different IT and training jobs. May provide details under request.
+
+* 2002 - 2010, Casa Asia : teacher of the educational program for
+  primary schools, regarding China and the Chinese language
+
+Despite my technical profile, I have also real-world experience managing
+family-owned businesses, and arranging large sport events and their budget.
+
+
+languages
+---------
+
+Catalan and Spanish are my native languages, and besides :
+
+* English : very fluent, both spoken and written
+
+* French : quite fluent, both spoken and written
+
+* Norwegian : beginner level, basic communication, read
+  and write simple texts
+
+* Chinese : beginner, 1 year course + passive learning, 
+  not bad pronunciation and calligraphy
+
+* Danish : beginner level, can communicate (with good
+  pronunciation) and read simple texts
+
+I like and I am keen at learning languages. I have
+notions of several others, such as Japanese, Korean, German, etc
+
+
+skills
+------
+
+Follows an incomplete list of the IT skills and languages,
+as well as my personal ones.
+
+* unix / linux development & deployment, devOps, C, python, shell
+  scripting, C++ (real-time systems, multithread, devices),
+  embedded development,
+  vim, git, subversion (and other VCSs) : **advanced**
+
+* pyQT, QT, java, systems administration, project 
+  analysis, writing skills, agile, people management : **strong**
+
+* project management, database design, C#, html / web, 
+  communication and mediation, testing, jenkins, CI, windows
+  development : **good**
+
+I *produce code* that is comprehensive, **maintainable and reusable**,
+with a strong focus on modularity, allowing for platform and/or
+codebase *portability*.
+
+I have a very strong sense of responsibility regarding product delivery and
+incidence fixing.
+
+I can also manage projects and events. I write well structured technical
+documents, either procedural documentation or manuals.
+
+
+achievements
+------------
+
+2007: Wrote the code for a prototype that granted my company the
+tender for the Oslo ring freeflow toll project, winning against world-sized
+competitors like Q-Free and Kapsch.
+
+Proactive creation of procedures, web information systems and development
+of tools that have allowed my company to minimize the cost in hours, knowledge
+and effort for the deployment and maintenance of systems.
+
+Proactive introduction in my company of different development tools
+including eclipse and subversion (i.e. deployment of an 8-y.o. server).
+

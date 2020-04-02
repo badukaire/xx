@@ -1,0 +1,57 @@
+
+::
+
+    To: Ole Bjørn Gartland, Managing Partner
+    CAVOTEC MICRO-CONTROL AS
+    Hell, Stjørdal, Nord-Trøndelag (Norge)
+
+
+Hello, I am writing to you regarding the vacant
+"SOFTWARE DEVELOPMENT ENGINEER" in Cavotec's site in
+Stjørdal kommune.
+
+My apologies for not writing in Norwegian this presentation
+letter. My Norwegian is not so good and I haven't used
+it in a few months. But I am confident I could improve that
+in a short time. In my previous job I travelled often to
+Norway (including Sør-Trøndelag) and I tried to learn
+Norwegian with both online and regular courses.
+
+I am not sure if you are willing take into consideration
+a candidate currently not living in Norway. Of course I'd
+be able to relocate in a reasonable time scope.
+
+I am currently employed at the Spanish branch of the Swiss
+ERNI consulting firm (erni.ch), and I provide my services at
+the Hewlett-Packard R+D site in Barcelona, a very large site
+with some hundreds of engineers. My job consists in developing
+and maintaing a core C++ multiplatform API that is used by
+several external applications to communicate with the printers
+through web services.
+
+I am currently learning and putting into practice (basically
+with hobby projects) technologies like rPI and other
+embedded devices and environments.
+
+In my previous job I worked with plenty of embedded devices
+that used mostly linux as OS. I also developed plenty of
+device drivers and real-time software that controlled them.
+
+I also have plenty of experience deploying systems in 
+outdoor environments, something which was part of my
+duties in my previous job.
+
+One of my most significant achievements was developing and
+deploying a prototype that won a project for the Oslo ring
+bompenge (statens vegvesen), in 2007.
+
+I do have an online professional profile both in linkedIn and
+and stackoverflow, I can provide links if necessary.
+
+::
+
+    Marc Gonzalez-Carnicer
+    Barcelona, November 21, 2017.
+
+
+
