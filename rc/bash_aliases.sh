@@ -1,6 +1,8 @@
 
 # this is for printers
 slog() { echo SESSION.$1.LOGS/printer.$1.log.gz ; }
+zll() { zless $( slog $1 ) ; }
+zgl() { zgrep "$1" $( slog $2 ) ; }
 
 # LS
 
