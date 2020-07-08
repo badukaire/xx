@@ -1,4 +1,7 @@
 
+# this is for printers
+slog() { echo SESSION.$1.LOGS/printer.$1.log.gz ; }
+
 # LS
 
 alias l='ls -CF --color=auto'
