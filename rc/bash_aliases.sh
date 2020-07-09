@@ -22,6 +22,12 @@ alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 
 
+# VIM
+
+alias vx='vim -X'
+alias vxw='view -X'
+
+
 # SVN
 
 alias ss='svn status'
