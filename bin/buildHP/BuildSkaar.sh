@@ -28,7 +28,8 @@ echo pwd: $( pwd )
     PLATFORM=${BUILD}-threadx
     TARGET=ass
   elif [ $BUILD == dbg ] ; then
-    PLATFORM=wrl17-intel_x86_64
+    #PLATFORM=wrl17-intel_x86_64
+    PLATFORM=wrl80-haswell
     TARGET=dbg
   elif [ $BUILD == dbg80 ] ; then
     PLATFORM=wrl80-haswell
