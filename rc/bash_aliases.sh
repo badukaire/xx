@@ -59,6 +59,7 @@ alias sll='svn log --limit'
 
 # GIT
 
+# git config --global --add alias.loc "log --graph --decorate --pretty=oneline --abbrev-commit"
 # git config --global --add alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"
 # git config --global --add alias.low 'log --graph --all --format="%h | %<(21,trunc)%ai | %<(25,trunc)%s"'
 
@@ -124,12 +125,12 @@ alias gpd='git push --delete'
 alias gpdm='git push --delete mirror $( git rev-parse --abbrev-ref HEAD )'
 alias gphm='git push mirror HEAD'
 
-alias go='git lo'
 alias gl='git lol'
-alias gl1='git lol1'
+alias gh='git hist'
+alias gl1='git lol -1'
 alias gl9='git lol -9'
 alias gll='git lol -22'
-alias glo='git lo -22'
+alias glc='git loc'
 alias glw='git low'
 
 alias gmm='git commit -m'
