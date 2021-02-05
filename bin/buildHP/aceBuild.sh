@@ -82,3 +82,23 @@ build
 B=wrl17-intel_x86_64-dbg
 build
 
+
+P=gemini
+B=zynq-threadx-ass
+build
+
+B=wrl17-intel_x86_64-dbg
+build
+
+
+P=skaar
+B=zynq-threadx-ass
+build
+
+B=wrl17-haswell-dbg
+B=wrl17-intel_x86_64-dbg
+build
+
+B=wrl80-haswell-dbg
+build
+
