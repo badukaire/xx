@@ -57,8 +57,10 @@ build()
     $CMD -m "${MM[@]}" 2>&1 >>$LOG
     OK=$?
     date
-    [ $OK -eq 0 ] || { echo "failed, quitting" ; exit 1 ; }
-    echo OK
+    [ $OK -eq 0 ] && echo "build OK" || {
+        echo "build failed"
+        eval [ $MY_P ] && { echo "product $MY_P set, quitting ..." ; exit 1 ; }
+    }
 }
 
 P=jupiterPE
