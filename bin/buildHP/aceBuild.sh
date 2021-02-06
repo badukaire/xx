@@ -47,7 +47,7 @@ build()
     eval [ $MY_P  ] && { [[ ! $P =~ $MY_P  ]] && return ; }
     eval [ $MY_BT ] && { [[ ! $B =~ $MY_BT ]] && return ; }
     echo --
-    CMD="$ACE -s $SB -p $P -t $B -m"
+    CMD="$ACE -s $SB -p $P -t $B -m \"${MM[@]}\""
     echo $CMD
     ${CMD[@]} 2>&1 >>$LOG
     # TODO : this is a dirty hack, I don't know how to avoid parameter
