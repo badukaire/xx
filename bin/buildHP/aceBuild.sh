@@ -50,9 +50,13 @@ build()
         }
     }
     #echo "checking for build $P $B ..."
-    eval [ $MY_P ] && { [ ! $P == $MY_P ] && return ; }
-    eval [ $MY_BT ] && { [ ! $B == $MY_BT ] && return ; }
+    eval [ $MY_P  ] && { [[ ! $P =~ $MY_P  ]] && return ; }
+    eval [ $MY_BT ] && { [[ ! $B =~ $MY_BT ]] && return ; }
+    echo --
     CMD="$ACE -s $SB -p $P -t $B"
+    # TODO : this is a dirty hack, I don't know how to avoid parameter
+    # expansion for commands such as "gmake all" / "gmake fast-all" etc
+    # so I am forced to append twice the "-m $MM" -m \"${MM[@]}\" stuff
     echo $CMD -m \"${MM[@]}\"
     $CMD -m "${MM[@]}" 2>&1 >>$LOG
     OK=$?
