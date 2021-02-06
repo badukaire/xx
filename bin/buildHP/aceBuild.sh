@@ -52,10 +52,20 @@ help()
 [ $# -lt 1 ] && { echo "ERROR, missing sandbox / --list option" ; usage ; exit 1 ; }
 
 OPT_HELP="--help"
+OPT_MAKE_TARGET_COMMAND="--command"
 OPT_LIST_BUILD_TYPES="--list"
 
 SB=$1
-[ $SB == $OPT_HELP ] && { help ; exit 0 ; } ||
+[ $SB == $OPT_HELP ] && { help ; exit 0 ; }
+
+[[ $SB == "${OPT_MAKE_TARGET_COMMAND}="* ]] && {
+    echo "make target opt & parameter: $SB"
+    MAKE_TARGET_COMMAND=`echo $SB | cut -d = -f 2`
+    echo "make target command: $MAKE_TARGET_COMMAND"
+    shift # pick the sandbox for the next check
+    SB=$1
+}
+
 [ $SB == $OPT_LIST_BUILD_TYPES ] || {
     [ -d /local/ae/$SB ] || { echo "ERROR, sandbox $SB not found" ; usage ; exit 1 ; }
     echo "using sandbox: $SB"
@@ -75,7 +85,7 @@ shift
 
 LOG=aceBuild.log
 ACE=ace
-MM="gmake all"
+eval [ $MAKE_TARGET_COMMAND ] && MM="gmake $MAKE_TARGET_COMMAND" || MM="gmake all"
 [ $SB == $OPT_LIST_BUILD_TYPES ] || {
     echo "command: $MM"
     echo "proceed? (ctrl-C to cancel)"
