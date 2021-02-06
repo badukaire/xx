@@ -1,13 +1,64 @@
 #!/bin/bash
 
-[ $# -lt 1 ] && { echo "ERROR, missing sandbox / --list option" ; exit 1 ; }
+usage()
+{
+    cat <<EOF
 
+Usage #1: aceBuild.sh --help"
+Usage #2: aceBuild.sh --list [<product abbrev>]"
+Usage #3: aceBuild.sh [--command=<make target>] <sandbox> \
+          [<product abbrev>] [<build target abbrev>]
+EOF
+}
+
+help_description()
+{
+    cat <<EOF
+Wrapper script for the ACE sandbox build instance commands.
+
+Provides a simpler user interface and a meaningful and cleaner
+output (the build logs are sent to a file). Can list the long
+build target names, and allows to type them loosely.
+EOF
+}
+
+help_examples()
+{
+    cat <<EOF
+
+Examples:
+
+$ aceBuild.sh --list          # lists all available products/build targets
+$ aceBuild.sh --list polestar # lists the polestar build targets
+$ aceBuild.sh --list pole     # should do the same as above
+$ aceBuild.sh BCD2            # builds all available products/targets in sandbox BCD2
+$ aceBuild.sh BCD2 polestar   # builds all polestar targets (gmake all)
+$ aceBuild.sh BCD2 pole       # should do the same as above
+$ aceBuild.sh BCD2 pole zynq  # builds all the polestar zynq targets
+$ aceBuild.sh --command=fast-product BCD2 blue dbg   ## if command not specified => 'all'
+$ aceBuild.sh --command=MediaTrackingManagerMalt BCD2 pole dbg
+$ aceBuild.sh --command=fast-gtest_patum_MediaTrackingManagerMalt_gtest_a_u BCD2 jupi dbg
+EOF
+}
+
+help()
+{
+    help_description
+    usage
+    help_examples
+}
+
+
+[ $# -lt 1 ] && { echo "ERROR, missing sandbox / --list option" ; usage ; exit 1 ; }
+
+OPT_HELP="--help"
 OPT_LIST_BUILD_TYPES="--list"
 
 SB=$1
-[ $SB == $OPT_LIST_BUILD_TYPES ] && echo "don't build, just list build types for all product" || {
-    echo sandbox $SB ...
-    [ -d /local/ae/$SB ] || { echo "ERROR, sandbox $SB not found" ; exit 1 ; }
+[ $SB == $OPT_HELP ] && { help ; exit 0 ; } ||
+[ $SB == $OPT_LIST_BUILD_TYPES ] || {
+    [ -d /local/ae/$SB ] || { echo "ERROR, sandbox $SB not found" ; usage ; exit 1 ; }
+    echo "using sandbox: $SB"
 }
 
 shift
