@@ -4,9 +4,9 @@ usage()
 {
     cat <<EOF
 
-Usage #1: aceBuild.sh --help"
-Usage #2: aceBuild.sh --list [<product abbrev>]"
-Usage #3: aceBuild.sh [--command=<make target>] <sandbox> \
+Usage #1: aceBuild.sh --help
+Usage #2: aceBuild.sh --list [<product abbrev>] [<build target abbrev>]
+Usage #3: aceBuild.sh [--command=<make target>] <sandbox> \\
           [<product abbrev>] [<build target abbrev>]
 EOF
 }
@@ -16,9 +16,14 @@ help_description()
     cat <<EOF
 Wrapper script for the ACE sandbox build instance commands.
 
-Provides a simpler user interface and a meaningful and cleaner
-output (the build logs are sent to a file). Can list the long
-build target names, and allows to type them loosely.
+Provides an easier user interface, a meaningful and cleaner output. Can
+list the long build target names and allows them to be loosely typed.
+
+The script requires a file targets.txt with your preferred products and build
+target combinations. The lines of this file must be colon-separated pairs of
+<product>:<build target> (see provided example files), and can be commented with '#'.
+
+The build output is sent to the aceBuild.log file.
 EOF
 }
 
