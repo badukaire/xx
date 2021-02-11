@@ -1,0 +1,34 @@
+
+#jupiterPE
+#Targets:  zynq-threadx(dbg ass opt), petalinux-zynq7_Zybo_Z7_20(dbg ass opt), zynq7-threadx(dbg ass opt), wrl17-intel(dbg ass opt), petalinux-zynq7_tasmania(dbg ass opt), wrl17-intel_x86_64(dbg ass opt), wrl17-zynq7_tasmania(dbg ass opt)
+#Products: jupiterPE
+
+jupiterPE:zynq-threadx-ass
+jupiterPE:petalinux-zynq7_Zybo_Z7_20-ass
+jupiterPE:zynq7-threadx-ass
+jupiterPE:petalinux-zynq7_tasmania-ass
+jupiterPE:wrl17-intel-dbg
+jupiterPE:wrl17-intel_x86_64-dbg
+jupiterPE:wrl17-zynq7_tasmania-dbg
+
+
+#bluemoon
+#Targets:  wrl17-intel_x86_64(dbg ass opt), zynq-threadx(dbg ass opt)
+#Products: lion
+
+bluemoon:wrl17-intel_x86_64-dbg
+bluemoon:zynq-threadx-ass
+
+
+polestar:zynq-threadx-ass
+polestar:wrl17-intel_x86_64-dbg
+
+
+gemini:zynq-threadx-ass
+gemini:wrl17-intel_x86_64-dbg
+
+
+skaar:zynq-threadx-ass
+skaar:wrl17-intel_x86_64-dbg
+#skaar:wrl80-haswell-dbg
+
