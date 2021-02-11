@@ -106,6 +106,7 @@ build()
     [ $SB == $OPT_LIST_BUILD_TYPES ] && {
         #echo "listing, check $P ..."
         eval [ $MY_P  ] && { [[ ! $P =~ $MY_P  ]] && return ; }
+        eval [ $MY_BT ] && { [[ ! $B =~ $MY_BT ]] && return ; }
         echo "$P $B"
         return
     }
