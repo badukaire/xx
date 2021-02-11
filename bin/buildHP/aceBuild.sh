@@ -131,7 +131,7 @@ build()
 FILE_TARGETS=targets.txt
 [ -f $FILE_TARGETS ] || { echo "file $FILE_TARGETS with products / build targets not found" ; exit 1 ; }
 
-while read PT # read lines, trimming whitespace
+while read PT <&3 # read lines, trimming whitespace, not using stdin
 do
     PTL=`echo $PT | cut -d# -f1`
     P=`echo $PTL | cut -d: -f1`
@@ -139,5 +139,5 @@ do
     B=`echo $PTL | cut -d: -f2`
     [ -z $B ] && continue
     build
-done < $FILE_TARGETS
+done 3< $FILE_TARGETS
 
