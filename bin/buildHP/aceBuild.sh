@@ -133,61 +133,11 @@ FILE_TARGETS=targets.txt
 
 while read PT # read lines, trimming whitespace
 do
-    echo "----"
-    echo read from file
-    echo $PT
     PTL=`echo $PT | cut -d# -f1`
-    echo first cut
-    echo $PTL
     P=`echo $PTL | cut -d: -f1`
     [ -z $P ] && continue
     B=`echo $PTL | cut -d: -f2`
     [ -z $B ] && continue
-    echo $P $B
     build
-    echo "=="
 done < $FILE_TARGETS
-
-exit 0
-
-P=jupiterPE
-B=zynq-threadx-ass
-build
-
-B=wrl17-intel-dbg
-build
-
-P=polestar
-B=zynq-threadx-ass
-build
-
-B=wrl17-intel_x86_64-dbg
-build
-
-P=bluemoon
-B=zynq-threadx-ass
-build
-
-B=wrl17-intel_x86_64-dbg
-build
-
-
-P=gemini
-B=zynq-threadx-ass
-build
-
-B=wrl17-intel_x86_64-dbg
-build
-
-
-P=skaar
-B=zynq-threadx-ass
-build
-
-B=wrl17-haswell-dbg
-B=wrl17-intel_x86_64-dbg
-build
-
-B=wrl80-haswell-dbg
-build
 
