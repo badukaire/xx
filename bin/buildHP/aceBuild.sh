@@ -127,6 +127,29 @@ build()
     }
 }
 
+
+FILE_TARGETS=targets.txt
+[ -f $FILE_TARGETS ] || { echo "file $FILE_TARGETS with products / build targets not found" ; exit 1 ; }
+
+while read PT # read lines, trimming whitespace
+do
+    echo "----"
+    echo read from file
+    echo $PT
+    PTL=`echo $PT | cut -d# -f1`
+    echo first cut
+    echo $PTL
+    P=`echo $PTL | cut -d: -f1`
+    [ -z $P ] && continue
+    B=`echo $PTL | cut -d: -f2`
+    [ -z $B ] && continue
+    echo $P $B
+    build
+    echo "=="
+done < $FILE_TARGETS
+
+exit 0
+
 P=jupiterPE
 B=zynq-threadx-ass
 build
